@@ -22,7 +22,7 @@ Une application desktop complète pour la gestion des employés (CRUD) développ
 ![Connexion_Réussi.png](Connexion_Réussi.png)
 
 ### Tableau de bord
-![Dashbord.png](Dashboard.png)
+![Dashbord.png](Dashbord.png)
 
 ### Recherche par matricule
 ![Recherche_par_matricule.png](Recherche_par_matricule.png)
