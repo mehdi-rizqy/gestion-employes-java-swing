@@ -15,7 +15,24 @@ Une application desktop complète pour la gestion des employés (CRUD) développ
 - **Architecture :** MVC (Model-View-Controller), DAO
 
 ##  Captures d'écran
-*(Nous ajouterons les images juste en dessous)*
+### Authentification
+![Authentification.png](Authentication.png)
+
+### Connexion réussie
+![Connexion_Réussi.png](Connexion_Réussi.png)
+
+### Tableau de bord
+![Dashbord.png](Dashboard.png)
+
+### Recherche par matricule
+![Recherche_par_matricule.png](Recherche_par_matricule.png)
+
+### Recherche par nom
+![Recherche_par_nom.png](Recherche_par_nom.png)
+
+### Quitter
+![Quitter.png](Quitter.png)
+
 
 ##  Comment exécuter le projet
 1. Cloner le dépôt : `git clone https://github.com/mehdi-rizqy/gestion-employes-java-swing.git`
