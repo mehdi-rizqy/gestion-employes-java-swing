@@ -16,7 +16,7 @@ Une application desktop complète pour la gestion des employés (CRUD) développ
 
 ##  Captures d'écran
 ### Authentification
-![Authentification.png](Authentication.png)
+![Authentification.png](Authentification.png)
 
 ### Connexion réussie
 ![Connexion_Réussi.png](Connexion_Réussi.png)
